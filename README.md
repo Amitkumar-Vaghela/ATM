@@ -15,19 +15,3 @@ Navigate to the Directory: Use the cd command to navigate into the directory whe
 Run the Program: Execute the program by running the atm.py file using Python: python atm.py.
 Follow the On-Screen Instructions: Once the program starts, follow the on-screen instructions to perform various operations such as checking balance, depositing, withdrawing, or exiting.
 
-Requirements:
-Python 3.x
-
-Contributing:
-Contributions to this project are welcome! Feel free to fork this repository, make changes, and submit pull requests.
-
-License:
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Acknowledgments:
-This program was created by [AMIT VAGHELA].
-Special thanks 
-Contact:7990382972
-
-If you have any questions, suggestions, or feedback, feel free to contact the project maintainer at [av902959@gmail.com].
-Thank you for using the ATM Simulator! We hope you find it helpful and enjoyable.
